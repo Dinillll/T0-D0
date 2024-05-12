@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="action_settings">Beállítások</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="completed">Completed</string>
+    <string name="urgent">Urgent</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="designation">Designation:</string>
+    <string name="year">Year:</string>
+    <string name="month">Month:</string>
+    <string name="very_important">Very important</string>
+    <string name="average">Average</string>
+    <string name="unimportant">Unimportant</string>
+    <string name="not_yet">Not Yet</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="day">Day:</string>
+    <string name="description">Description</string>
+</resources>
